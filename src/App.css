@@ -1,0 +1,10 @@
+/* src/CharacterList.css */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
